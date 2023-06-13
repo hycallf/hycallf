@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am an computer science student with a wide range of interests, including web development, 2D game development, software development, and IoT (Internet of Things) technologies. I have gained valuable experience in various programming languages such as Java, PHP, JavaScript, Python (specifically for machine learning applications), and C# (for Arduino-related projects).
-
-Here are some ideas to get you started:
+I am an enthusiastic computer science student with a strong interest in full-stack web development, software development, networking, and IoT technologies. I have experience in PHP and Java and am currently expanding my skills in JavaScript, Python, and C#(for arduino related project). My knowledge includes working with DBMS such as MySQL, Oracle, and Firebase.
 
 - 🔭 I’m currently study on Bangkit Academy as a cloud computing cohorts
 - 🌱 I’m currently learning Javascript and python stuff
