@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-I am an enthusiastic computer science student with a strong interest in full-stack web development, software development, networking, and IoT technologies. I have experience in PHP and Java and am currently expanding my skills in JavaScript, Python, and C#(for arduino related project). My knowledge includes working with DBMS such as MySQL, Oracle, and Firebase.
+I am an enthusiastic computer science student with a strong interest in full-stack web development, software development, networking, and IoT technologies. I have experience in PHP and Java and currently expanding my skills in JavaScript, Python, and C#(for arduino related project). My knowledge includes working with DBMS such as MySQL, Oracle, and Firebase, and frameworks like Laravel and CI for PHP web Application, Next, React(front-end) and ExpressJS for JS web Application, and for Styling frameworks like Bootstrap and Tailwind.
 
 - 🔭 I’m currently study on Bangkit Academy as a cloud computing cohorts
-- 🌱 I’m currently learning Javascript and python stuff
+- 🌱 I’m currently expanding my knowledge on Javascript and python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: kal
-- ⚡ Fun fact: ...
 
 
 🔗 &nbsp;**Connect with me**
