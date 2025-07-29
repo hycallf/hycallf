@@ -1,23 +1,62 @@
-### Hi there 👋
+<div align="center">
+  <img src="banner.png" alt="Your Profile Banner" style="max-width:100%; height:auto;"/><br />
+  <h1>Halo, Saya Muhammad Haikal Fuady 👋</h1>
+  <h3>Fullstack Developer dengan Fokus Laravel</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/muhammad-haikal-fuady">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:muhammadhaikalfuady@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    </a>
+    </p>
+</div>
 
-I am an enthusiastic computer science student with a strong interest in web development, software development, and IoT technologies. I have experience in PHP and Java and currently expanding my skills in JavaScript, Python, and C#(for arduino related project). My knowledge includes working with DBMS such as MySQL, Oracle, and Firebase, and frameworks like Laravel and CI for PHP web Application, Next, React(front-end) and ExpressJS for JS web Application, and for Styling frameworks like Bootstrap and Tailwind.
+---
 
-- 🔭 I’m currently study on Bangkit Academy as a cloud computing cohorts
-- 🌱 I’m currently expanding my knowledge on Javascript and python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: kal
+### 🚀 Tentang Saya
+Seorang **Fullstack Developer** yang bersemangat dalam membangun solusi web yang efisien dan skalabel. Dengan latar belakang pendidikan di bidang IT dan pengalaman praktis dalam proyek-proyek *freelance*, saya memiliki minat kuat dalam memecahkan masalah kompleks melalui pendekatan logis dan matematis. Saya percaya bahwa fondasi kode yang solid adalah kunci keberhasilan setiap aplikasi.
 
+Saya adalah seorang *lifelong learner* yang selalu mencari tantangan baru dan teknologi inovatif untuk terus mengasah kemampuan saya.
 
-🔗 &nbsp;**Connect with me**
-<p align="left">
+### 💻 Spesialisasi & Teknologi
 
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://instagram.com/hycall_f24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+Saya fokus pada pengembangan fullstack yang kuat, dengan keahlian mendalam di ekosistem **Laravel**. Saya juga terampil dalam membangun antarmuka pengguna yang interaktif.
+saya sempat tertarik pada IOT dan GameDev juga tetapi tidak terlalu mendalam kesana, hanya sebagai Hobby.
 
-<details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-  <br/>
-  <p align="left">  <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  </p>
+* **Backend:**
+    * **Laravel:** Framework favorit saya untuk membangun aplikasi web dan RESTful API yang robust.
+    * Pernah mencoba Next.JS & Express.JS (MERN stack)
+    * PHP, MySQL/MariaDB, PostgreSQL
+    * Konsep API Design (RESTful), Authentication (Sanctum)
+* **Frontend:**
+    * Vue.js (SPA Development)
+    * HTML, CSS (Tailwind CSS/Bootstrap), JavaScript (ES6+)
+    * Alpine.js, Livewire (untuk solusi Fullstack Laravel)
+* **Tools & Lainnya:**
+    * Git & GitHub, Composer, NPM/Yarn
+    * VS Code, Postman/Insomnia
+    * Konsep Database Schema Design, Query Optimization
 
-</details>
+### 💡 Portofolio
+Berikut adalah portofolio projek yang menunjukkan keahlian saya:
+<a href="https://hycallf.github.io">
+  <img src="https://img.shields.io/badge/Demo%20Live-Lihat%20Disini-green?style=for-the-badge&logo=vercel" alt="Demo Live Button"/>Lihat Portofolio
+</a>
+
+### 🧑🏻‍💻 Tulisan saya
+<iframe src="https://daisy-smile-aec.notion.site/ebd/23263fd10ab88010b291ee5ab88aa52e" width="100%" height="600" frameborder="0" allowfullscreen />
+
+### 🌱 Saya Sedang Belajar
+Saya berkomitmen untuk terus berkembang dan memperluas pengetahuan saya di dunia teknologi:
+* [DevOps & Deployment otomatis (CI/CD)]
+* [Progressive Web Apps]
+* [Pemrograman Mobile (Flutter/Java/Kotlin)]
+* [Arsitektur Microservices]
+
+### 🤝 Mari Berkolaborasi
+Saya terbuka untuk peluang kerja sebagai **Junior/Associate Backend/Fullstack Developer** di perusahaan yang mencari talenta yang cepat belajar dan berkomitmen. Saya juga bersedia untuk proyek *freelance* yang menantang dan kolaborasi *open source*.
+
+Feel free to connect with me!
+
+---
