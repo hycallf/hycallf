@@ -40,8 +40,9 @@ saya sempat tertarik pada IOT dan GameDev juga tetapi tidak terlalu mendalam kes
 
 ### 💡 Portofolio
 Berikut adalah portofolio projek yang menunjukkan keahlian saya:
+
 <a href="https://hycallf.github.io">
-  <img src="https://img.shields.io/badge/Demo%20Live-Lihat%20Disini-green?style=for-the-badge&logo=vercel" alt="Demo Live Button"/>Lihat Portofolio
+  <img src="https://img.shields.io/badge/Demo%20Live-Lihat%20Disini-green" alt="Demo Live Button"/>
 </a>
 
 ### 🧑🏻‍💻 Tulisan saya
