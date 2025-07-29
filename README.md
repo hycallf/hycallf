@@ -42,11 +42,14 @@ saya sempat tertarik pada IOT dan GameDev juga tetapi tidak terlalu mendalam kes
 Berikut adalah portofolio projek yang menunjukkan keahlian saya:
 
 <a href="https://hycallf.github.io">
-  <img src="https://img.shields.io/badge/Demo%20Live-Lihat%20Disini-green" alt="Demo Live Button"/>
+  <img src="https://img.shields.io/badge/My Portofolio-blue?style=for-the-badge&logo=font-awesome&logoColor=white&logo=fa-laptop"/>
 </a>
 
 ### 🧑🏻‍💻 Tulisan saya
-<iframe src="https://daisy-smile-aec.notion.site/ebd/23263fd10ab88010b291ee5ab88aa52e" width="100%" height="600" frameborder="0" allowfullscreen />
+
+<a href="https://daisy-smile-aec.notion.site/ebd/23263fd10ab88010b291ee5ab88aa52e">
+  <img src="https://img.shields.io/badge/My_Skill-Writing-blue?style=for-the-badge&logo=font-awesome&logoColor=white&logo=pen-fancy"/>
+</a>
 
 ### 🌱 Saya Sedang Belajar
 Saya berkomitmen untuk terus berkembang dan memperluas pengetahuan saya di dunia teknologi:
