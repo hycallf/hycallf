@@ -10,10 +10,10 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
     <a href="https://hycallf.github.io">
-      <img src="https://img.shields.io/badge/Portfolio-Laptop-orange?style=for-the-badge&logo=laptop&logoColor=white" alt="Laptop Skill Badge"/>
+      <img src="https://img.shields.io/badge/Portfolio?style=for-the-badge&logo=laptop&logoColor=white" alt="Laptop Skill Badge"/>
     </a>
     <a href="https://daisy-smile-aec.notion.site/ebd/23263fd10ab88010b291ee5ab88aa52e">
-      <img src="https://img.shields.io/badge/My_Notes-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
     </a>
     </p>
 </div>
