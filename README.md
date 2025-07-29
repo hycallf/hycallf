@@ -1,5 +1,6 @@
 <div align="center">
   <img src="banner.png" alt="Your Profile Banner" style="max-width:100%; height:auto;"/><br />
+  <h2>Connect with me 👋🏻 </h2>
   <p>
     <a href="https://www.linkedin.com/in/muhammad-haikal-fuady">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
